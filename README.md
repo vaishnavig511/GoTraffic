@@ -5,7 +5,7 @@ Our application detects vehicles and obtain their position ,area and velocity an
 <br>1.Gcc/Gnu Compiler loaded with opencv libraries,graphic library.
 <br>2.Anaconda for python 3.6 with libraries metplotlib and numpy.
 <br>
-<h3>How to use?</h3?
+<h3>How to use?</h3>
 <br>1.Press any key to continue.
 <br>2.Give the path or url of the video
 <br>3.Height and Width of the region of interest and adjust ROI by double left click on the points and fix that point by single left click.
